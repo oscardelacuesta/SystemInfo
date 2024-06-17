@@ -1,6 +1,7 @@
 # SystemInfo
 Utilidad para mostrar información del sistema en linea de comandos, graficamente. Cambia el fondo de pantalla
 
+
 Uso: systeminfo.exe [opciones]
 
 Opciones:
@@ -20,6 +21,9 @@ Opciones:
 Ejemplos:
 
   systeminfo.exe pantalla
+
   systeminfo.exe setfondo
+
   systeminfo.exe texto 12
+
   systeminfo.exe color FF0000
