@@ -21,7 +21,7 @@ It also supports console mode with parameters in both Spanish and English, and c
 You can contribute to the project by improving the script.
 
 Thank you.
-
+Oscar de la Cuesta - www.palentino.es
 
 
 
