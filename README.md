@@ -8,7 +8,7 @@ Gracias.
 
 Uso: systeminfo.exe [opciones]
 
-** Opciones **:
+**Opciones**:
 
   pantalla      Muestra la información del sistema en una ventana.
   
