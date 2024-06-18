@@ -2,6 +2,10 @@
 
 Utilidad para mostrar información del sistema en línea de comandos, gráficamente. Cambia el fondo de pantalla activo, respentando el existente.
 
+Permite cambiar el fondo de pantalla con la información del sistema (respetando el existente), temperatura de la cpu, uso disco, núcleos, modelo, memoria, etc.
+
+También admite modo consola con parámetros tanto en castellano como inglés, personalización de color y tamaño de texto.
+
 Puedes contribuir con el proyecto mejorando el script. 
 
 Gracias.
@@ -10,17 +14,17 @@ Uso: systeminfo.exe [opciones]
 
 **Opciones**:
 
-  pantalla      Muestra la información del sistema en una ventana.
+  **pantalla**      Muestra la información del sistema en una ventana.
   
-  setfondo      Configura la imagen del sistema como fondo de pantalla directamente sin confirmación.
+  **setfondo**      Configura la imagen del sistema como fondo de pantalla directamente sin confirmación.
   
-  texto <size>  Cambia el tamaño del texto en la imagen del fondo de pantalla.
+  **texto <size>**  Cambia el tamaño del texto en la imagen del fondo de pantalla.
   
-  color <hex>   Cambia el color del texto en la imagen del fondo de pantalla. Ejemplo de color en hex: FF0000 para rojo.
+  **color <hex>**   Cambia el color del texto en la imagen del fondo de pantalla. Ejemplo de color en hex: FF0000 para rojo.
 
-  /?            Muestra esta ayuda.
+  **/?**            Muestra esta ayuda.
   
-  /e            Cambia el idioma de los mensajes a inglés.
+  **/e**            Cambia el idioma de los mensajes a inglés.
 
 Ejemplos:
 
