@@ -10,6 +10,21 @@ Puedes contribuir con el proyecto mejorando el script.
 
 Gracias.
 
+----------------------------
+
+Utility to display system information in the command line, graphically. Changes the active wallpaper, respecting the existing one.
+
+Allows you to change the wallpaper with system information (respecting the existing one), CPU temperature, disk usage, cores, model, memory, etc.
+
+It also supports console mode with parameters in both Spanish and English, and customization of color and text size.
+
+You can contribute to the project by improving the script.
+
+Thank you.
+
+
+
+
 Uso: systeminfo.exe [opciones]
 
 **Opciones**:
